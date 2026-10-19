@@ -1,0 +1,17 @@
+{
+  "name": "Nisa Bloom Florist",
+  "address": "Jl. Setiabudi No. 112, Bandung 40153",
+  "email": "halo@nisabloom.id",
+  "phone": "+62 22 5550 8899",
+  "socials": [
+    { "name": "Instagram", "handle": "@nisabloomflorist", "url": "https://instagram.com" },
+    { "name": "TikTok", "handle": "@nisabloomflorist", "url": "https://tiktok.com" }
+  ],
+  "nav": [
+    { "to": "/", "label": "Beranda" },
+    { "to": "/tentang", "label": "Tentang" },
+    { "to": "/layanan", "label": "Layanan" },
+    { "to": "/portofolio", "label": "Portofolio" },
+    { "to": "/kontak", "label": "Kontak" }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  { 
+    "id": 1, 
+    "title": "Blush Garden Bouquet", 
+    "category": "Buket", 
+    "year": 2025, 
+    "description": "Buket mawar pink dan eucalyptus, paling laris untuk hadiah wisuda.",
+    "image": "public/image/eucalyptus.jpg"
+  },
+  { 
+    "id": 2, 
+    "title": "Dekorasi Akad Lilac", 
+    "category": "Dekorasi", 
+    "year": 2025, 
+    "description": "Dekorasi akad bernuansa ungu muda dengan lengkung bunga segar.",
+    "image": "public/image/dekorungu.jpg"
+  },
+  { 
+    "id": 3, 
+    "title": "Workshop Bunga Komunitas", 
+    "category": "Workshop", 
+    "year": 2025, 
+    "description": "Kelas 3 jam untuk 12 peserta, semuanya pulang membawa buket buatan sendiri.",
+    "image": "public/image/workshop bunga.jpg"
+  },
+  { 
+    "id": 4, 
+    "title": "Pastel Peony Hand Bouquet", 
+    "category": "Buket", 
+    "year": 2024, 
+    "description": "Hand bouquet peony pastel untuk pengantin dan sesi foto prewedding.",
+    "image": "public/image/bungaprewed.jpg"
+  },
+  { 
+    "id": 5, 
+    "title": "Dekorasi Resepsi Taman", 
+    "category": "Dekorasi", 
+    "year": 2024, 
+    "description": "Rangkaian meja dan pelaminan untuk resepsi 300 tamu di taman terbuka.",
+    "image": "public/image/taman.jpg"
+  },
+  { 
+    "id": 6, 
+    "title": "Workshop Kantor Hari Perempuan", 
+    "category": "Workshop", 
+    "year": 2024, 
+    "description": "Kelas kolaborasi dengan sebuah perusahaan di Bandung untuk 40 karyawan.",
+    "image": "public/image/workshop.jpg"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  { 
+    "id": 1,
+    "name": "Nisa Agustin",
+    "role": "Pendiri & Head Florist",
+    "initials": "N",
+    "photo": "/team/nisa.jpeg",
+    "bio": "Sosok utama di balik arah kreatif Nisa Bloom Florist. Mengawali perjalanan dari studio rumahan pada 2019, kini memimpin seluruh proses kurasi konsep dan standardisasi kualitas desain untuk setiap pesanan Anda."
+  },
+  { 
+    "id": 2, 
+    "name": "Disti Nurapriliani", 
+    "role": "Event Decorator",  
+    "photo": "public/team/Disti.png",
+    "bio": "Spesialis rekayasa tata ruang dan instalasi floral berskala besar. Berpengalaman lebih dari 5 tahun dalam merancang visual estetis yang megah untuk pesta pernikahan dan acara formal." 
+  },
+  { 
+    "id": 3, 
+    "name": "Fatihah Azzahra", 
+    "role": "Florist Senior",
+    "photo": "public/team/fatihah.png",
+    "bio": "Pakar seni merangkai buket tangan (hand bouquet) dengan spesialisasi gaya natural, elegan, dan lembut, memastikan setiap perpaduan bunga memiliki harmoni visual yang tinggi." 
+  },
+  { 
+    "id": 4, 
+    "name": "Tuska Pratama", 
+    "role": "Manajer Pesanan",
+    "photo": "public/team/Tuska.png",
+    "bio": "Bertanggung jawab penuh atas manajemen operasional, ketepatan waktu pengiriman logistik, serta memastikan alur komunikasi permintaan pelanggan terpenuhi tanpa cela."
+  }
+]

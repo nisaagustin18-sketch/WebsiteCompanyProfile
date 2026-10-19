@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Buket & Hand Bouquet",
+    "description": "Buket bunga segar untuk ulang tahun, wisuda, anniversary, dan hadiah spesial lainnya.",
+    "points": ["Bunga segar setiap hari", "Kartu ucapan gratis", "Bisa request warna dan tema"],
+    "image": "/public/image/bucket.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bunga Papan & Standing Flower",
+    "description": "Bunga papan untuk pembukaan usaha, pernikahan, ucapan selamat, dan belasungkawa.",
+    "points": ["Berbagai ukuran", "Pengiriman se-Bandung Raya", "Pemasangan oleh tim kami"],
+    "image": "/public/image/bunga papan.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Dekorasi Acara & Pernikahan",
+    "description": "Dekorasi bunga untuk akad, resepsi, lamaran, dan acara perusahaan, dari konsep sampai pemasangan.",
+    "points": ["Konsultasi konsep gratis", "Rangkaian meja dan pelaminan", "Tim pasang dan bongkar"],
+    "image":"public/image/dekor lamaran.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Workshop Merangkai Bunga",
+    "description": "Kelas merangkai bunga untuk pemula, komunitas, dan acara kantor, lengkap dengan bunga dan alat.",
+    "points": ["Maksimal 12 peserta", "Bunga dan alat disediakan", "Hasil karya dibawa pulang"],
+    "image":"public/image/workshop.jpg"
+  }
+]
