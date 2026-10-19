@@ -19,9 +19,9 @@ Buka alamat yang muncul di terminal (http://localhost:5173).
 ## Screenshot
 
 ### Beranda
-![Beranda](public/Screenshoot/Beranda1.png,)
-![Beranda2](public/Screenshoot/Beranda2.png,)
-![Beranda 3](<public/Screenshoot/Beranda 3.png>)
+![Beranda](public/Screenshoot/Beranda1.png)
+![Beranda2](public/Screenshoot/Beranda2.png)
+![Beranda3](public/Screenshoot/Beranda3.png)
 
 ### Tentang Kami
 ![Tentang Kami](public/Screenshoot/Tentang1.png)
